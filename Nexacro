@@ -1,0 +1,4 @@
+넥사크로 시작페이지 설정
+
+Application Information > Applications > Application_Desktop > mainframe > edit
+> childFrame추가 > childFrame formurl 속성에 원하는 form을 지정
